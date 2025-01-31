@@ -8,6 +8,7 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
   <img src="https://github.com/kenilp7/assets/blob/main/ai.png" width="300" alt="AI Assistant Discussion">
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kenilp7&no-frame=tru&column=-1&title=-Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 About Me
 - 🌍 Thesis Student @ **Bosch Innovation Campus - Berlin**.
