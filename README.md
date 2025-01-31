@@ -4,7 +4,9 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=2000&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin)
 
-![Man Engaging with AI Chatbot](https://github.com/kenilp7/assets/blob/main/tech.png)
+<p align="center">
+  <img src="https://github.com/kenilp7/assets/blob/main/tech.png" width="300" alt="AI Assistant Discussion">
+</p>
 
 
 ## 🚀 About Me
