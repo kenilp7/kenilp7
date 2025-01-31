@@ -16,7 +16,7 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 
 ## 🚀 About Me
 - 🌍 Thesis Student @ **Bosch Innovation Campus - Berlin**.
-- 🚀 AI explorer crafting intelligent agents that revolutionize decision-making.
+- 🤖 AI explorer crafting intelligent agents that revolutionize decision-making.
 - 💡 Passionate about Generative AI, Multi-Agent Systems and LLMs.
 - 🔍 Always tinkering with new AI models to push the boundaries of what's possible.
 - 🔗 Check out my Projects: [kenilp7](https://github.com/kenilp7?tab=repositories)
