@@ -3,7 +3,7 @@
 I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie in Generative AI, ML and FinTech. I'm passionate about developing innovative solutions in these fields.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin" alt="Typing SVG">
 </p>
 
 <p align="center">
