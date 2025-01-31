@@ -19,7 +19,7 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 - 🚀 AI explorer crafting intelligent agents that revolutionize decision-making.
 - 💡 Passionate about Generative AI, Multi-Agent Systems and LLMs.
 - 🔍 Always tinkering with new AI models to push the boundaries of what's possible.
-- 🔗 Check out my GitHub: [kenilp7](https://github.com/kenilp7)
+- 🔗 Check out my Projects: [kenilp7](https://github.com/kenilp7?tab=repositories)
 
 ## 🔥 Current Project @ Bosch
 🔹 **Conversational SQL Chatbot** – An AI-powered chatbot that interprets natural language queries and generates SQL commands to retrieve data from MySQL databases. Utilizing OpenAI’s GPT models with LangChain for enhanced query accuracy.
@@ -57,7 +57,7 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 
 ## 📊 GitHub Stats
 
-![GitHub Stats Animation](https://github-readme-streak-stats.herokuapp.com?user=kenilp7&theme=radical&hide_border=true)
+![Kenil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenilp7&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenilp7&layout=compact&theme=radical&hide_border=true)
 
 ## 📌 Featured Projects
