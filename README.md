@@ -8,13 +8,13 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 
 
 ## 🚀 About Me
-- 🌍 Thesis Student @ **Bosch**, building SQL Chatbot.
+- 🌍 Thesis Student @ **Bosch Innovation Campus - Berlin**.
 - 🚀 AI explorer crafting intelligent agents that revolutionize decision-making.
 - 💡 Passionate about Generative AI, Multi-Agent Systems and LLMs.
 - 🔍 Always tinkering with new AI models to push the boundaries of what's possible.
 - 🔗 Check out my GitHub: [kenilp7](https://github.com/kenilp7)
 
-## 🔥 Current Project
+## 🔥 Current Project @ Bosch
 🔹 **Conversational SQL Chatbot** – An AI-powered chatbot that interprets natural language queries and generates SQL commands to retrieve data from MySQL databases. Utilizing OpenAI’s GPT models with LangChain for enhanced query accuracy.
 
 ![ML Pipeline Animation](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=📝+User+Query+Input+➡️+LLM+Processing+➡️+Generated+SQL+Query)
