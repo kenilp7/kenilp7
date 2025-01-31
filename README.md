@@ -74,5 +74,5 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 ---
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenil-patel-3972b6134/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenilpatel@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenilpatel2047@gmail.com)
 
