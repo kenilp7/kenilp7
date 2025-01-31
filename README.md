@@ -57,7 +57,7 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 
 ## 📊 GitHub Stats
 
-![Kenil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenilp7&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kenilp7&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenilp7&layout=compact&theme=radical&hide_border=true)
 
 ## 📌 Featured Projects
