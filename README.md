@@ -1,8 +1,10 @@
-# Hello, I'm Kenil Patel 👋
+<h1 align="center">Hello, I'm Kenil Patel 👋</h1>
 
-I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie in Generative AI and AI agents, and I'm passionate about developing innovative solutions in these fields.
+I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie in Generative AI, ML and FinTech. I'm passionate about developing innovative solutions in these fields.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin" alt="Typing SVG">
+</p>
 
 <p align="center">
   <img src="https://github.com/kenilp7/assets/blob/main/ai.png" width="300" alt="AI Assistant Discussion">
