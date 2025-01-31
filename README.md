@@ -2,7 +2,7 @@
 
 I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie in Generative AI and AI agents, and I'm passionate about developing innovative solutions in these fields.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=2000&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin)
 
 <p align="center">
   <img src="https://github.com/kenilp7/assets/blob/main/ai.png" width="300" alt="AI Assistant Discussion">
@@ -19,7 +19,7 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 ## 🔥 Current Project @ Bosch
 🔹 **Conversational SQL Chatbot** – An AI-powered chatbot that interprets natural language queries and generates SQL commands to retrieve data from MySQL databases. Utilizing OpenAI’s GPT models with LangChain for enhanced query accuracy.
 
-![ML Pipeline Animation](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=2000&color=00BFFF&center=true&vCenter=true&width=600&lines=📝+User+Query+Input+➡️+LLM+Processing+➡️+Generated+SQL+Query)
+![ML Pipeline Animation](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=4500&pause=2000&color=00BFFF&center=true&vCenter=true&width=900&lines=📝+User+Question+➡️+LLM+Processing+➡️+Generated+SQL+Query+➡️+Insights+📊)
 
 ## 🎯 Interests
 - Large Language Models (LLMs)
