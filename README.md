@@ -3,15 +3,13 @@
 I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie in Generative AI, ML and FinTech. I'm passionate about developing innovative solutions in these fields.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+New York" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+New+York" alt="Typing SVG">
 </p>
 
 <p align="center">
   <img src="https://github.com/kenilp7/assets/blob/main/ai.png" width="300" alt="AI Assistant Discussion">
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kenilp7&no-frame=tru&column=-1&title=-Followers" alt="GitHub Profile Trophies">
-</p>
+
 
 
 ## 🚀 About Me
@@ -54,12 +52,6 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.mysql.com/)
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=kenilp7&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenilp7&layout=compact&theme=radical&hide_border=true)
 
 ## 📌 Featured Projects
 
