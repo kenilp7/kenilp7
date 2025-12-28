@@ -3,7 +3,7 @@
 I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie in Generative AI, ML and FinTech. I'm passionate about developing innovative solutions in these fields.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+Berlin" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=24&duration=3500&color=00BFFF&center=true&vCenter=true&width=500&lines=GenAI+Enthusiast;ML+Engineer;TechGeek+in+New York" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -15,13 +15,14 @@ I'm an AI enthusiast and M.Sc student based in Berlin, Germany. My interests lie
 
 
 ## 🚀 About Me
-- 🌍 Thesis Student @ **Bosch Innovation Campus - Berlin**.
+- 🤖 AI Research Fellow at United Nations
+- 🌍 Thesis @ **Bosch Innovation Campus - Berlin**.
 - 🤖 AI explorer crafting intelligent agents that revolutionize decision-making.
 - 💡 Passionate about Generative AI, Multi-Agent Systems and LLMs.
 - 🔍 Always tinkering with new AI models to push the boundaries of what's possible.
 - 🔗 Check out my Projects: [kenilp7](https://github.com/kenilp7?tab=repositories)
 
-## 🔥 Current Project @ Bosch
+## 🔥 Prev Project @ Bosch
 🔹 **Conversational SQL Chatbot** – An AI-powered chatbot that interprets natural language queries and generates SQL commands to retrieve data from MySQL databases. Utilizing OpenAI’s GPT models with LangChain for enhanced query accuracy.
 
 ![ML Pipeline Animation](https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=20&duration=4500&pause=2000&color=00BFFF&center=true&vCenter=true&width=900&lines=📝+User+Question+➡️+LLM+Processing+➡️+Generated+SQL+Query+➡️+Insights+📊)
